@@ -1,0 +1,25 @@
+{
+  "name": "flintbot",
+  "version": "1.0.0",
+  "description": "A discord bot - Flint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baymax15/flintbot.git"
+  },
+  "author": "Baymax15",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baymax15/flintbot/issues"
+  },
+  "homepage": "https://github.com/Baymax15/flintbot#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
